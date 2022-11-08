@@ -1,0 +1,17 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.14.3
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Thu May  5 23:21:05 2022"
+  rime_version: 1.5.3
+patch:
+  menu:
+    page_size: 5
+  schema_list:
+    - {schema: xkjd6}
+    - {schema: xklb}
+    - {schema: xklbXY}
+
+  switcher:
+    caption: "「切换方案」"
+    hotkeys: ["Control+grave", F4]
