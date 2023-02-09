@@ -9,8 +9,8 @@ patch:
     page_size: 5
   schema_list:
     - {schema: xkjd6}
-    - {schema: xklb}
-    - {schema: xklbXY}
+    # - {schema: xklb}
+    # - {schema: xklbXY}
 
   switcher:
     caption: "「切换方案」"
